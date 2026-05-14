@@ -54,6 +54,7 @@ Technologies:
 - React
 - Node.js
 - PostgreSQL
+- Prisma
 - REST APIs
 
 Focus areas:
