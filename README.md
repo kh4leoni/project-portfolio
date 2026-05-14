@@ -64,7 +64,7 @@ Focus areas:
 
 ---
 
-### Digital Coaching Platform
+### Gainly
 
 A modern coaching platform developed as part of a thesis-related software project.
 
