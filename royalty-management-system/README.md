@@ -1,4 +1,4 @@
-# Yoyalties
+# Royalty management system
 
 A fullstack royalty management system built for music labels to automate royalty tracking, reporting, recoup handling, and artist payout workflows.
 
